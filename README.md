@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a social network
 - 📫 How to reach me 
   - https://www.instagram.com/https_elianr/
-  - https://www.facebook.com/httpselianr
+  - https://twitter.com/https_elianr
 
 <!---
 elian-doctom/elian-doctom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
