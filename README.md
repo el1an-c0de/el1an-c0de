@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning basic Languages such as Java, C #, SQL, among others
 - 💞️ I’m looking to collaborate on a social network
 - 📫 How to reach me 
-  - https://www.instagram.com/https_elianr/
+  - https://www.linkedin.com/in/eramirez7/
   - https://twitter.com/https_elianr
 
 <!---
