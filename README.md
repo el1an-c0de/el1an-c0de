@@ -1,4 +1,5 @@
-<!--h1 without bottom border-->
+<!-- Profile -->
+<!-- Name -->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Elian</h1></summary>
@@ -6,34 +7,43 @@
 </div>
 
 
-<!--h2 without bottom border-->
+<!-- Inspirated Phrase -->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">"Make every commit count."</h2></summary>
   </ul>
 </div>
 
-
-<!--Intro start-->
-- 👀 I'm an IT engineer, passionate about development and management. I have worked with technologies such as: Javascript, Typescript, Java, C#, Python, R, Node JS, React, Angular, Firebase, SQL. 
+<!-- More Information -->
+- 👀 I'm an IT engineer, passionate about development and management. I have worked with technologies such as: Javascript, Typescript, Node JS, React, Angular, Firebase, SQL. 
   
 - 🌱 I have held positions as a developer, project manager and network technician, having a favorable performance.
-  
-- ☁️ I've keen interest in cloud computing.
 
 - 📑 My CV
-  - --
+  - XXXXX
   
 - 📫 How to reach me 
-  - https://www.linkedin.com/in/eramirez7/
-  - https://twitter.com/https_elianr
-<!--Intro end-->
+  - Linkedin: [eramirez7](https://www.linkedin.com/in/eramirez7/)
+  - X: [https_elianr](https://x.com/https_elianr)
+<!-- Profile ed -->
 
-<!---
-- 👋 Hi, I’m Elian
-elian-doctom/elian-doctom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<!--Technologies That I Know-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,bootstrap,css,discord,firebase,html,java,eclipse,js,linux,mongodb,mysql,postgres,nodejs,postman,react,angular,tailwind,vscode,ps&perline=14" />
+  </a>
+</p>
+<!--Technologies That I Know- end -->
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -63,25 +73,8 @@ You can click the Preview link to take a look at your changes.
     </a>
 </div>
 <!--- trophy (start) -->
-
-
 </p>        
 <!--- stats (end) -->
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,bootstrap,css,discord,firebase,html,java,eclipse,js,linux,mongodb,mysql,postgres,nodejs,postman,react,angular,tailwind,vscode,ps&perline=14" />
-  </a>
-</p>
-
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
