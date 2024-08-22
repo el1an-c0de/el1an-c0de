@@ -22,7 +22,7 @@
 - ☁️ I've keen interest in cloud computing.
 
 - 📑 My CV
-  - 
+  - --
   
 - 📫 How to reach me 
   - https://www.linkedin.com/in/eramirez7/
@@ -78,7 +78,7 @@ You can click the Preview link to take a look at your changes.
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,bootstrap,css,cs,discord,express,firebase,github,html,java,eclipse,js,php,linux,mongodb,mysql,postgres,nodejs,postman,py,r,flutter,dart,react,angular,tailwind,ts,vscode,ps&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,bootstrap,css,discord,firebase,html,java,eclipse,js,linux,mongodb,mysql,postgres,nodejs,postman,react,angular,tailwind,vscode,ps&perline=14" />
   </a>
 </p>
 
