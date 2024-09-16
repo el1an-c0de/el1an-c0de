@@ -71,17 +71,17 @@
   <!--Technologies That I Know- end -->
 
 
-  <!-- Proyects -->
+  <!-- Projects -->
   <div id="user-content-toc">
     <ul align="center">
-      <summary><h2 style="display: inline-block">Proyects💻</h2></summary>
+      <summary><h2 style="display: inline-block">Projects💻</h2></summary>
     </ul>
   </div>
   
   <!--icons and links-->
   <p align="center">
   <a href="https://el1an-c0de.github.io/imageToPdf_JS/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4726/4726010.png" alt="linkedin" height="50" width="50" /></a>
-  <!-- Proyects end -->
+  <!-- Projects end -->
   
   <!-- Connect with me -->
   <div id="user-content-toc">
